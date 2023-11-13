@@ -14,6 +14,13 @@
     "next": "14.0.2"
   },
   "devDependencies": {
+    "@elysiajs/cors": "^0.7.1",
+    "@elysiajs/html": "^0.7.3",
+    "@elysiajs/jwt": "^0.7.0",
+    "@elysiajs/static": "^0.7.1",
+    "@elysiajs/swagger": "^0.7.4",
+    "elysia": "latest",
+    "mongoose": "^7.6.4",
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
