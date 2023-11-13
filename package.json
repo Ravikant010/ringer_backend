@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bun": "^1.0.11",
+    "next": "14.0.2",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.2"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@elysiajs/cors": "^0.7.1",
@@ -19,16 +20,16 @@
     "@elysiajs/jwt": "^0.7.0",
     "@elysiajs/static": "^0.7.1",
     "@elysiajs/swagger": "^0.7.4",
-    "elysia": "latest",
-    "mongoose": "^7.6.4",
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
+    "elysia": "latest",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.2",
+    "mongoose": "^7.6.4",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.0.2"
+    "typescript": "^5"
   }
 }
